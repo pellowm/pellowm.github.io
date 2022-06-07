@@ -1,0 +1,18 @@
+body {
+  background-image: linear-gradient(rgb(8, 35, 77), rgb(255, 255, 255));
+}
+
+.myinfo {
+  color: white;
+}
+
+.intro {
+  background-color: rgba(1, 38, 64, 0.3);
+}
+.project-card {
+  border: none;
+}
+
+.project-card-header {
+  background-color: rgba(2, 44, 75, 0.7);
+}
