@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="16"
-   height="16"
+   width="150"
+   height="150"
    fill="currentColor"
    class="bi bi-person-circle"
-   viewBox="0 0 16 16"
+   viewBox="0 0 150 150"
    version="1.1"
    id="svg1867"
    sodipodi:docname="person-circle.svg"
