@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(rgb(1, 30, 75), rgb(255, 255, 255));
+  background-image: linear-gradient(rgb(11, 73, 124,.9), rgb(36, 129, 193,.1));
 }
 
 .myinfo {
@@ -7,16 +7,38 @@ body {
 }
 
 .intro {
-  background-color: rgba(1, 38, 64, 0.3);
+  background-color: rgba(1, 38, 64, 0.7);
+  background-image: linear-gradient(rgba(6, 98, 168, 0.695), rgba(8, 99, 168, 0.715)), url("background.jpeg");
+  background-size: cover;
+  opacity: 1;
+
 }
+
+
+/* .intro::after {
+  content: "";
+  background-image: url("background.jpeg");
+  background-size: cover;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+} */
+
 .project-card {
   border: none;
 }
 
 .project-card-header {
-  background-color: rgba(2, 44, 75, 0.7);
+  background-image: linear-gradient(to right, rgba(9, 84, 137, 0.95),  rgba(9, 84, 137, 0.90),  rgba(9, 84, 137, 0.95));
 }
 
 .headshot {
   border-radius: 50%;
+  border-style: solid;
+  border-color:white;
+  border-width: thick
 }
