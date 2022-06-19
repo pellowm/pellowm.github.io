@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(rgb(11, 73, 124,.9), rgb(36, 129, 193,.1));
+  background-image: linear-gradient(to bottom right, rgba(163, 194, 222, 0.9), rgba(87, 149, 190, 0.1));
 }
 
 .intro {
@@ -13,7 +13,7 @@ body {
 .headshot {
   border-radius: 50%;
   border-style: solid;
-  border-color:white;
+  border-color:rgb(46, 148, 152);
   border-width: thick
 }
 
@@ -26,6 +26,5 @@ body {
 }
 
 .project-card-header {
-  background-image: linear-gradient(to right, rgba(9, 84, 137, 0.95),  rgba(9, 84, 137, 0.90),  rgba(9, 84, 137, 0.95));
+  background-image: linear-gradient(to right bottom, rgb(37, 118, 120),rgb(43, 136, 139));
 }
-
